@@ -1,5 +1,13 @@
 
-# 🚀 ShotenX_AI
+<p align="center">
+  <img src="assets/shotenx_ai_logo.png" alt="ShotenX_AI Logo" width="420"/>
+</p>
+
+<h1 align="center">🚀 ShotenX_AI</h1>
+
+<p align="center"><strong>Autonomous Agent Economy — Powered by AI + Lightning Network</strong></p>
+
+---
 
 **ShotenX_AI** is an AI-powered agent system that enables **autonomous payments and services** using the Lightning Network.
 
